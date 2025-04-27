@@ -55,3 +55,7 @@ button {
   color            : #E1DAC3;
   margin           : 0;
 }
+
+#preload-image {
+  display          : none;
+}
